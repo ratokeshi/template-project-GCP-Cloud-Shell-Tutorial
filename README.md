@@ -4,6 +4,27 @@ DeleteMe- Find all sections that say DeleteMe, these should be deleted.
 ReplaceMe- Sections, keywords, id numbers that need to be replaced or personalized.  
 VerifyMe/- Text thatmight apply for all instances but you might want to look to see if there is new information.  
 
+ToDo List before going to production:
+- [ ] Check for and note locations of VerifyMe 
+- [ ] Check for and note locations of ReplaceMe 
+- [ ] Check for and note locations of DeleteMe 
+- [ ] Change GCP Lab number references
+- [ ] Change Lab Title references
+- [ ] Change Lab Quests references
+- [ ] Change Overview references
+- [ ] Change Objective references
+- [ ] Change video references
+- [ ] Change Get started references if there are specific details associated with this lab.
+- [ ] First Run through
+- [ ] Second Runthrough for ease of use
+- [ ] Third Runthrough for special details and learn more references.
+- [ ] Change or add lab verification links in Qwiklab documentation 
+- [ ] Check for and delete VerifyMe 
+- [ ] Check for ReplaceMe 
+- [ ] Check for DeleteMe 
+- [ ] Check for The Markup references at the end of the template and delete them.
+
+
 Lab ID: [ReplaceMe get from Qwiklab]
 
 # Cloud-Shell-GSP###ReplaceMe-ReplaceMeNameOfLab
