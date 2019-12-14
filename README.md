@@ -1,7 +1,8 @@
 # template-project-GCP-Cloud-Shell-Tutorial
-Template project for a cloud shell tutorial
-DeleteMe- Find all sections that say DeleteMe, these should be deleted.
-ReplaceMe- Sections, keywords, id numbers that need to be replaced or personalized. 
+Template project for a cloud shell tutorial  
+DeleteMe- Find all sections that say DeleteMe, these should be deleted.  
+ReplaceMe- Sections, keywords, id numbers that need to be replaced or personalized.  
+VerifyMe/- Text thatmight apply for all instances but you might want to look to see if there is new information.  
 
 Lab ID: [ReplaceMe get from Qwiklab]
 
