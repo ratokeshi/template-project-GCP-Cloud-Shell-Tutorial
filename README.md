@@ -71,7 +71,7 @@ To begin the tutorial in a Qwiklab open your Google Cloud Consoles as you normal
 3.  Enter the following commands to clone this repository and launch the turotial.
 ```bash
 git clone https://github.com/ratokeshi/Cloud-Shell-GSPReplaceMeNumber-ReplaceMeName.git
-&& cd Cloud-Shell-GSPReplaceMeNumber-ReplaceMeFolder && cloudshell launch-tutorial tutorial.md
+&& cd template-project-GCP-Cloud-Shell-Tutorial && cloudshell launch-tutorial tutorial.md
 ```
 
 ```bash
